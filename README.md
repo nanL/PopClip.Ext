@@ -4,6 +4,6 @@
 
 ##插件列表##
 
-1. 金山词霸：[iCiBa.popclipextz](iCiBa.popclipextz)
+1. 金山词霸：[点击 iCiBa.popclipextz 下载](https://github.com/nanL/PopClipExt/raw/master/iCiBa.popclipextz)
 
 
