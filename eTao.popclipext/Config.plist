@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,90}$</string>
+			<key>Title</key>
+			<string>eTao</string>
+			<key>URL</key>
+			<string>http://s.etao.com/search?q={popclip text}</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://nan.im/</string>
+			<key>Name</key>
+			<string>nan.im</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Open eTao search with the selected text.</string>
+	<key>Extension Identifier</key>
+	<string>im.nan.popclip.etao</string>
+	<key>Extension Name</key>
+	<string>eTao</string>
+</dict>
+</plist>
