@@ -5,4 +5,5 @@
 ##插件列表##
 
 1. 金山词霸：[iCiBa.popclipextz 点击下载](iCiBa.popclipextz?raw=true)
-2. ……
+2. 一淘搜索：[eTao.popclipextz 点击下载](eTao.popclipextz?raw=true)
+3. ……
