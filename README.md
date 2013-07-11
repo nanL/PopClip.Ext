@@ -4,6 +4,6 @@
 
 ##插件列表##
 
-1. 金山词霸：[iCiBa.popclipextz 点击下载](iCiBa.popclipextz?raw=true)
-2. 一淘搜索：[eTao.popclipextz 点击下载](eTao.popclipextz?raw=true)
-3. 更多本土化插件陆续添加中……
+1. 金山词霸：[点击 iCiBa.popclipextz 下载](iCiBa.popclipextz?raw=true) 选取英文单词或中文字词后打开金山爱词霸在线翻译；
+2. 一淘优惠：[点击 eTao.popclipextz 下载](eTao.popclipextz?raw=true) 包括“一淘搜”和“一淘省”两个按钮，分别用于在一淘搜索商品和对商城链接使用一淘返利；
+3. ……
