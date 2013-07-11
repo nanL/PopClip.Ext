@@ -5,12 +5,10 @@
 	<key>Actions</key>
 	<array>
 		<dict>
-			<key>Image File</key>
-			<string>iCiBa.png</string>
 			<key>Regular Expression</key>
 			<string>(?s)^.{1,100}$</string>
 			<key>Title</key>
-			<string>Translate</string>
+			<string>词霸</string>
 			<key>URL</key>
 			<string>http://www.iciba.com/{popclip text}</string>
 		</dict>
@@ -24,10 +22,10 @@
 			<string>nan.im</string>
 		</dict>
 	</array>
+    <key>Extension Name</key>
+    <string>金山词霸</string>
 	<key>Extension Identifier</key>
 	<string>im.nan.popclip.iciba</string>
-	<key>Extension Name</key>
-	<string>iCiBa</string>
 	<key>Extension Description</key>
 	<string>Open iCiBa Translate with the selected text.</string>
 </dict>

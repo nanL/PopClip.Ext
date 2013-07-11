@@ -4,14 +4,22 @@
 <dict>
 	<key>Actions</key>
 	<array>
-		<dict>
-			<key>Regular Expression</key>
-			<string>(?s)^.{1,90}$</string>
-			<key>Title</key>
-			<string>eTao</string>
-			<key>URL</key>
-			<string>http://s.etao.com/search?q={popclip text}</string>
-		</dict>
+        <dict>
+            <key>Regular Expression</key>
+            <string>(?s)^.{1,90}$</string>
+            <key>Title</key>
+            <string>一淘搜</string>
+            <key>URL</key>
+            <string>http://s.etao.com/search?q={popclip text}</string>
+        </dict>
+        <dict>
+            <key>Regular Expression</key>
+            <string>http.*\.(amazon|tmall|taobao|51buy|yixun|gome|yihaodian|vipshop|lefeng|bjia|jumei|xiu|m18|homevv|moonbasa|womai|vancl)\.(cn|com|com\.cn)\/.*</string>
+            <key>Title</key>
+            <string>一淘省</string>
+            <key>URL</key>
+            <string>http://ok.etao.com/item.htm?url={popclip text}</string>
+        </dict>
 	</array>
 	<key>Credits</key>
 	<array>
@@ -22,11 +30,12 @@
 			<string>nan.im</string>
 		</dict>
 	</array>
-	<key>Extension Description</key>
-	<string>Open eTao search with the selected text.</string>
+    <key>Extension Name</key>
+    <string>一淘优惠</string>
 	<key>Extension Identifier</key>
 	<string>im.nan.popclip.etao</string>
-	<key>Extension Name</key>
-	<string>eTao</string>
+    <key>Extension Description</key>
+    <string>Open ok.eTao for save money.</string>
 </dict>
 </plist>
+
