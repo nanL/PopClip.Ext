@@ -1,6 +1,6 @@
 #PopClipExt#
 
-这里是我制作的 PopClip 拓展插件其中 popclipextz 格式是安装包 popclipext 格式是源文件，更多介绍：[http://nan.im/blog/1408](http://nan.im/blog/1408)
+这里是我制作的 PopClip 拓展插件，更多介绍：[http://nan.im/blog/1408](http://nan.im/blog/1408)
 
 ##插件列表##
 
