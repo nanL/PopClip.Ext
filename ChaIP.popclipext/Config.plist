@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Actions</key>
+    <array>
+        <dict>
+            <key>Regular Expression</key>
+            <string>^\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}$</string>
+            <key>Title</key>
+            <string>IP</string>
+            <key>URL</key>
+            <string>http://ip.cn/index.php?ip={popclip text}</string>
+        </dict>
+    </array>
+    <key>Credits</key>
+    <array>
+        <dict>
+            <key>Link</key>
+            <string>http://nan.im/</string>
+            <key>Name</key>
+            <string>nan.im</string>
+        </dict>
+    </array>
+    <key>Extension Name</key>
+    <string>ChaIP</string>
+    <key>Extension Identifier</key>
+    <string>im.nan.popclip.chaip</string>
+    <key>Extension Description</key>
+    <string>Get IP info from IP.cn</string>
+</dict>
+</plist>
