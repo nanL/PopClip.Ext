@@ -5,12 +5,16 @@
     <key>Actions</key>
     <array>
         <dict>
+            <key>After</key>
+            <string>preview-result</string>
             <key>Regular Expression</key>
             <string>^\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}$</string>
             <key>Title</key>
             <string>IP</string>
-            <key>URL</key>
-            <string>http://ip.cn/index.php?ip={popclip text}</string>
+            <key>Script Interpreter</key>
+            <string>/usr/bin/php</string>
+            <key>Shell Script File</key>
+            <string>ChaIP.php</string>
         </dict>
     </array>
     <key>Credits</key>
@@ -23,7 +27,7 @@
         </dict>
     </array>
     <key>Extension Name</key>
-    <string>ChaIP</string>
+    <string>查IP</string>
     <key>Extension Identifier</key>
     <string>im.nan.popclip.chaip</string>
     <key>Extension Description</key>
